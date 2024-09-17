@@ -1,14 +1,18 @@
 # freedns
-官网 freedns.fun
-邮政 email:admin@gdata.fun
+官网 freedns.fun 目前官网只作为展示宣传交流用途。
+
+email:admin@gdata.fun
+
+目前只接受 4个字符以上的二级域名申请
 
 免费多个二级域名分发
 
-*.tbit.top
+*.tbit.top 续费10年
 *.gdata.fun
 *.soshu.cx 
+以上做域名都没有在中国备案，个别域名正在准备备案中，通过时间未知。
 
-目前手动添加解析()
+目前手动添加解析(离线添加解析更安全，没有数据泄露风险。)
 
 发送邮件至，admin@gdata.fun
 
@@ -23,7 +27,7 @@ tests.soshu.cx 127.0.0.1
 
 
 #tests.soshu.cx 为你要申请的二级域名。
-#testa.tbit.top 
+#testa.tbit.top 10年域名
 #tests.gdata.fun
 #127.0.0.1 为服务器IP地址
 提示 提示  
@@ -33,5 +37,9 @@ tests.soshu.cx 127.0.0.1
 一个用于，www服务或者论坛，
 一个ssh或者远程桌面,
 一个远程连接摄像头或者录像机。
-
+完全够用了。
 重要提示，(姓名，身份证号，可以不提供)，但是，但是一旦发现违法，违规，立即取消解析，不另行通知。。！ 实名认证的，我们会协助处理问题，
+####感谢你的使用和支持。####
+
+
+
