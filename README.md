@@ -1,5 +1,5 @@
 # freedns
-官网 freedns.fun 目前官网只作为展示宣传交流用途。
+官网 freedns.fun 目前官网只作为展示宣传交流用途。官网建设中……
 
 email:admin@gdata.fun
 
