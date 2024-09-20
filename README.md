@@ -1,7 +1,7 @@
 # freedns
 官网 freedns.fun 目前官网只作为展示宣传交流用途。官网建设中……
 
-email:admin@gdata.fun
+email:admin@freedns.fun
 
 目前只接受 4个字符以上的二级域名申请
 
@@ -30,7 +30,7 @@ email:admin@gdata.fun
 
 身份证号:111111111111……
 
-tests.soshu.cx 127.0.0.1
+tests.soshu.cx 127.0.0.1#或者cname记录地址#或者ns地址
 
 
 #tests.soshu.cx 为你要申请的二级域名。
